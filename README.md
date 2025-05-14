@@ -4,6 +4,11 @@
 
 This project contains two shell scripts to convert contact data into Outlook-compatible CSV files. It supports both structured `.txt` contact lists and Entra ID `.csv` user exports.
 
+![License](https://img.shields.io/badge/license-GPLv3-blue.svg)
+![Shell](https://img.shields.io/badge/shell-Bash-lightgrey.svg)
+![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux-brightgreen.svg)
+![Encoding](https://img.shields.io/badge/output-UTF--8%20BOM-important.svg)
+
 ## Features
 
 - Converts structured TXT files (one contact per 5 lines) into Outlook CSV format
