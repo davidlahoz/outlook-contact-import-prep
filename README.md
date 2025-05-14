@@ -21,7 +21,7 @@ This project contains two shell scripts to convert contact data into Outlook-com
 
 ## Input Formats
 
-### TXT Format (cleaned_contacts.txt)
+### TXT Format (contacts.txt)
 Note: Due the nature of TXT files and lack of reliability in that case, the script does not perform any format check. Input data should be manually reviewed first.
 Each contact must be exactly 5 lines:
 1. Full name
